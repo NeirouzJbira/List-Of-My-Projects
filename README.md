@@ -13,6 +13,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 ### C
 
 - <a href = "https://github.com/NeirouzJbira/Counter">Counter</a>
+- <a href = "https://github.com/NeirouzJbira/Calculator">Calculator</a>
 - <a href = "https://github.com/NeirouzJbira/Converty">Converty</a>
 - <a href = "https://github.com/NeirouzJbira/CharCounter">CharCounter</a>
 
@@ -30,7 +31,9 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 ### M
 
+- <a href = "https://github.com/NeirouzJbira/MultiColor">MultiColor</a>
 - <a href = "https://github.com/NeirouzJbira/MIELS">Miel's restaurant Website</a>
+
 
 ### P
 
