@@ -16,6 +16,8 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/Calculator">Calculator</a>
 - <a href = "https://github.com/NeirouzJbira/Converty">Converty</a>
 - <a href = "https://github.com/NeirouzJbira/CharCounter">CharCounter</a>
+- <a href = "https://github.com/NeirouzJbira/Candy-Crush">Candy Crush</a>
+
 
 ### D
 
