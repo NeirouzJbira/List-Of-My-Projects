@@ -40,8 +40,6 @@ A collection of all my projects on GitHub. This list is updated regularly.
 ### N
 - <a href = "https://github.com/NeirouzJbira/Nasa-Tech">Nasa Tech</a>
 
-
-
 ### P
 
 - <a href = "https://github.com/NeirouzJbira/Percentage">Percentage</a>
