@@ -28,15 +28,22 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 - <a href = "https://github.com/NeirouzJbira/Get-GitHub-User">Get GitHub User's Info</a>
 
+### H
+- <a href="https://github.com/NeirouzJbira/Hex-Color-Generator">Hex Color Generator"</a>
+
+
 ### L
 
 - <a href = "https://github.com/NeirouzJbira/Lumia-Cafe">Lumia Cafe Website</a>
+- <a href = "https://github.com/NeirouzJbira/Login-Authentication">Login Authentication</a>
+
 
 ### M
 
 - <a href = "https://github.com/NeirouzJbira/MultiColor">MultiColor</a>
 - <a href = "https://github.com/NeirouzJbira/MIELS">Miel's restaurant Website</a>
 - <a href = "https://github.com/NeirouzJbira/Meditation">Meditation</a>
+- <a href = "https://github.com/NeirouzJbira/Moviac">Moviac</a>
 
 
 ### N
