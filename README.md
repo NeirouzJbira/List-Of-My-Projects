@@ -52,6 +52,11 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 - <a href = "https://github.com/NeirouzJbira/Percentage">Percentage</a>
 
+
+### R
+- <a href = "https://github.com/NeirouzJbira/Redux-Tutorial-Cart">Redux Tutorial Cart</a>
+
+
 ### S
 
 - <a href = "https://github.com/NeirouzJbira/Shorteny">Shorteny</a>
