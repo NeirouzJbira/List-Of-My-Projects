@@ -44,7 +44,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/Meditation">Meditation</a>
 - <a href = "https://github.com/NeirouzJbira/Moviac">Moviac</a>
 - <a href = "https://github.com/NeirouzJbira/Mern-Authentication">Mern Authentication</a>
-
+- <a href = "https://github.com/NeirouzJbira/Mean-Authentication">Mean Authentication</a>
 
 
 ### N
