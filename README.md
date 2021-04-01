@@ -8,6 +8,8 @@ A collection of all my projects on GitHub. This list is updated regularly.
 ### B
 
 - <a href = "https://github.com/NeirouzJbira/Back-Roads">Back Roads</a>
+- <a href = "https://github.com/NeirouzJbira/Book-Library">Book Library</a>
+
 
 ### C
 
@@ -35,6 +37,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 - <a href = "https://github.com/NeirouzJbira/Lumia-Cafe">Lumia Cafe Website</a>
 - <a href = "https://github.com/NeirouzJbira/Login-Authentication">Login Authentication</a>
+
 
 
 ### M
