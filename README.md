@@ -74,6 +74,8 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/To-Do-List">To Do List</a>
 - <a href = "https://github.com/NeirouzJbira/Tea-Station">Tea Station</a>
 - <a href = "https://github.com/NeirouzJbira/Travel-To-Tunisia">Travel To Tunisia</a>
+- <a href = "https://github.com/NeirouzJbira/Task-Manager">Task Manager</a>
+
 
 
 
