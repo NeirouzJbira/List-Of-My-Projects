@@ -1,4 +1,5 @@
 ## General Info 🌷
+
 A collection of all my projects on GitHub. This list is updated regularly.
 
 ### A
@@ -10,7 +11,6 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/Back-Roads">Back Roads</a>
 - <a href = "https://github.com/NeirouzJbira/Book-Library">Book Library</a>
 
-
 ### C
 
 - <a href = "https://github.com/NeirouzJbira/Counter">Counter</a>
@@ -20,25 +20,26 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/Candy-Crush">Candy Crush</a>
 - <a href = "https://github.com/NeirouzJbira/Curly">Curly</a>
 
-
 ### D
 
 - <a href="https://github.com/NeirouzJbira/DrumKit">Drum Kit</a>
+
+### F
+
+- <a href="https://github.com/NeirouzJbira/Flower-Cake">Flower Cake</a>
 
 ### G
 
 - <a href = "https://github.com/NeirouzJbira/Get-GitHub-User">Get GitHub User's Info</a>
 
 ### H
-- <a href="https://github.com/NeirouzJbira/Hex-Color-Generator">Hex Color Generator"</a>
 
+- <a href="https://github.com/NeirouzJbira/Hex-Color-Generator">Hex Color Generator"</a>
 
 ### L
 
 - <a href = "https://github.com/NeirouzJbira/Lumia-Cafe">Lumia Cafe Website</a>
 - <a href = "https://github.com/NeirouzJbira/Login-Authentication">Login Authentication</a>
-
-
 
 ### M
 
@@ -49,20 +50,18 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/Mern-Authentication">Mern Authentication</a>
 - <a href = "https://github.com/NeirouzJbira/Mean-Authentication">Mean Authentication</a>
 
-
 ### N
+
 - <a href = "https://github.com/NeirouzJbira/Nasa-Tech">Nasa Tech</a>
 
 ### P
 
 - <a href = "https://github.com/NeirouzJbira/Percentage">Percentage</a>
 
-
 ### R
+
 - <a href = "https://github.com/NeirouzJbira/Redux-Tutorial-Cart">Redux Tutorial Cart</a>
 - <a href = "https://github.com/NeirouzJbira/Roll-The-Dice">Roll The Dice</a>
-
-
 
 ### S
 
@@ -75,9 +74,6 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/Tea-Station">Tea Station</a>
 - <a href = "https://github.com/NeirouzJbira/Travel-To-Tunisia">Travel To Tunisia</a>
 - <a href = "https://github.com/NeirouzJbira/Task-Manager">Task Manager</a>
-
-
-
 
 ### W
 
