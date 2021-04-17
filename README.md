@@ -62,7 +62,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 - <a href = "https://github.com/NeirouzJbira/Redux-Tutorial-Cart">Redux Tutorial Cart</a>
 - <a href = "https://github.com/NeirouzJbira/Roll-The-Dice">Roll The Dice</a>
-- <a href = "https://github.com/NeirouzJbira/React-Online-Store">React Online Store</a>
+<!-- - <a href = "https://github.com/NeirouzJbira/React-Online-Store">React Online Store</a> -->
 
 
 ### S
