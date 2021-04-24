@@ -34,7 +34,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 ### H
 
-- <a href="https://github.com/NeirouzJbira/Hex-Color-Generator">Hex Color Generator"</a>
+- <a href="https://github.com/NeirouzJbira/Hex-Color-Generator">Hex Color Generator</a>
 
 ### L
 
