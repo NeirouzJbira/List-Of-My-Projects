@@ -50,7 +50,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/Mern-Authentication">Mern Authentication</a>
 - <a href = "https://github.com/NeirouzJbira/Mean-Authentication">Mean Authentication</a>
 - <a href = "https://github.com/NeirouzJbira/Mern-Blog">Mern Blog</a>
-- <a href="https://github.com/NeirouzJbira/MERN-Stack-Shopping-App">MERN Stack Shopping App</a>
+- <a href =  "https://github.com/NeirouzJbira/MERN-Stack-Shopping-App">MERN Stack Shopping App</a>
 
 ### N
 
