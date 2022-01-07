@@ -27,6 +27,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 ### F
 
 - <a href="https://github.com/NeirouzJbira/Flower-Cake">Flower Cake</a>
+- <a href="https://github.com/NeirouzJbira/Flask-MVC-Framework">Flask-MVC-Framework</a>
 
 ### G
 
@@ -59,6 +60,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 ### P
 
 - <a href = "https://github.com/NeirouzJbira/Percentage">Percentage</a>
+- <a href = "https://github.com/NeirouzJbira/Python-Flask-Authentication">Python-Flask-Authentication </a>
 
 ### R
 
