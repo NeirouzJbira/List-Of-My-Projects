@@ -10,6 +10,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 - <a href = "https://github.com/NeirouzJbira/Back-Roads">Back Roads</a>
 - <a href = "https://github.com/NeirouzJbira/Book-Library">Book Library</a>
+- <a href = "https://github.com/NeirouzJbira/Bulk-Files-Renamer"></a>
 
 ### C
 
@@ -19,15 +20,17 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/CharCounter">CharCounter</a>
 - <a href = "https://github.com/NeirouzJbira/Candy-Crush">Candy Crush</a>
 - <a href = "https://github.com/NeirouzJbira/Curly">Curly</a>
+- <a href = "https://github.com/NeirouzJbira/Corona-tracker"></a>
+- <a href = "https://github.com/NeirouzJbira/Crypto-Tracker"></a>
 
 ### D
 
-- <a href="https://github.com/NeirouzJbira/DrumKit">Drum Kit</a>
+- <a href = "https://github.com/NeirouzJbira/DrumKit">Drum Kit</a>
 
 ### F
 
-- <a href="https://github.com/NeirouzJbira/Flower-Cake">Flower Cake</a>
-- <a href="https://github.com/NeirouzJbira/Flask-MVC-Framework">Flask-MVC-Framework</a>
+- <a href ="https://github.com/NeirouzJbira/Flower-Cake">Flower Cake</a>
+- <a href ="https://github.com/NeirouzJbira/Flask-MVC-Framework">Flask-MVC-Framework</a>
 
 ### G
 
@@ -35,7 +38,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 ### H
 
-- <a href="https://github.com/NeirouzJbira/Hex-Color-Generator">Hex Color Generator</a>
+- <a href = "https://github.com/NeirouzJbira/Hex-Color-Generator">Hex Color Generator</a>
 
 ### L
 
@@ -83,6 +86,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 ### W
 
-- <a href="https://github.com/NeirouzJbira/Word-Counter">Word Counter</a>
-- <a href="https://github.com/NeirouzJbira/Weather-App">Weather App 1</a>
-- <a href="https://github.com/NeirouzJbira/Weather-Application">Weather App 2</a>
+- <a href ="https://github.com/NeirouzJbira/Word-Counter">Word Counter</a>
+- <a href ="https://github.com/NeirouzJbira/Weather-App">Weather App 1</a>
+- <a href ="https://github.com/NeirouzJbira/Weather-Application">Weather App 2</a>
+- <a href = "https://github.com/NeirouzJbira/Web-Scraping-Program"></a>
