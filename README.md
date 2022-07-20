@@ -10,7 +10,7 @@ A collection of all my projects on GitHub. This list is updated regularly.
 
 - <a href = "https://github.com/NeirouzJbira/Back-Roads">Back Roads</a>
 - <a href = "https://github.com/NeirouzJbira/Book-Library">Book Library</a>
-- <a href = "https://github.com/NeirouzJbira/Bulk-Files-Renamer"></a>
+- <a href = "https://github.com/NeirouzJbira/Bulk-Files-Renamer">Bulk Files Renamer</a>
 
 ### C
 
@@ -20,8 +20,8 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href = "https://github.com/NeirouzJbira/CharCounter">CharCounter</a>
 - <a href = "https://github.com/NeirouzJbira/Candy-Crush">Candy Crush</a>
 - <a href = "https://github.com/NeirouzJbira/Curly">Curly</a>
-- <a href = "https://github.com/NeirouzJbira/Corona-tracker"></a>
-- <a href = "https://github.com/NeirouzJbira/Crypto-Tracker"></a>
+- <a href = "https://github.com/NeirouzJbira/Corona-tracker">Corona Tracker</a>
+- <a href = "https://github.com/NeirouzJbira/Crypto-Tracker">Crypto Tracker</a>
 
 ### D
 
@@ -89,4 +89,4 @@ A collection of all my projects on GitHub. This list is updated regularly.
 - <a href ="https://github.com/NeirouzJbira/Word-Counter">Word Counter</a>
 - <a href ="https://github.com/NeirouzJbira/Weather-App">Weather App 1</a>
 - <a href ="https://github.com/NeirouzJbira/Weather-Application">Weather App 2</a>
-- <a href = "https://github.com/NeirouzJbira/Web-Scraping-Program"></a>
+- <a href = "https://github.com/NeirouzJbira/Web-Scraping-Program">Web Scraping Program</a>
